@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: PO SZTUKĘ DO "CEPELII". Wsparcie Wielkanocne dla Ukrainy
+subtitle: 24-04-2022
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 24-04-2022
+img: impreza-2.jpg
+thumbnail: impreza-2.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Fundacja Ceramiki Polskiej XX wieku we współpracy z Kolektywem STUS organizują cykl wydarzeń „Po Sztukę do »Cepelii«. Wsparcie Wielkanocne dla Ukrainy”🇺🇦, w ramach którego odbywać się będą wystawy oraz aukcje charytatywne.  
+ 
+〰️ Podczas licytacji zakupić będzie można dzieła sztuki i zabytkowe meble z budynku dawnej „Cepelii”, a dochód przeznaczony zostanie na zakup staz taktycznych dla ukraińskiej armii.  
 
 ---
