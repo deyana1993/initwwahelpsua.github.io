@@ -10,7 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: W ramach naszego cyklu „Po Sztukę do »Cepelii«. Wsparcie Wielkanocne dla Ukrainy”🇺🇦  mamy zaszczyt zaprosić Was na koncert akustyczny zespołu Vitus Danza. Po koncercie można będzie wziąć udział w Jam Session. 🎸🔥
-Nostalgiczny rock z elementami psychodeli, oprawiony autorskimi, lekko niepokojącymi tekstami zabierze Was w odległą podróż. Nazwa zespołu została zainspirowana średniowieczną plagą zrzeszającą ludzi w tanecznym transie wykonywanym niekiedy aż do omdlenia. Kapela ma już na koncie swój pierwszy minialbum o nazwie "Chwasty"🌱
+description: W ramach naszego cyklu „Po Sztukę do »Cepelii«. Wsparcie Wielkanocne dla Ukrainy”🇺🇦  mamy zaszczyt zaprosić Was na koncert akustyczny zespołu Vitus Danza. Po koncercie można będzie wziąć udział w Jam Session. 🎸🔥 Nostalgiczny rock z elementami psychodeli, oprawiony autorskimi, lekko niepokojącymi tekstami zabierze Was w odległą podróż. Nazwa zespołu została zainspirowana średniowieczną plagą zrzeszającą ludzi w tanecznym transie wykonywanym niekiedy aż do omdlenia. Kapela ma już na koncie swój pierwszy minialbum o nazwie "Chwasty"🌱
 
 ---
