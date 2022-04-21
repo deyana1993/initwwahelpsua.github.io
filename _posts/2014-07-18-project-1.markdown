@@ -4,8 +4,8 @@ subtitle: 22-04-2022
 layout: default
 modal-id: 1
 date: 22-04-2022
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: impreza-1.jpg
+thumbnail: impreza-1.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
