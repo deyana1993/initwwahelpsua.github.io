@@ -3,15 +3,14 @@ title: PO SZTUKĘ DO "CEPELII". Wsparcie Wielkanocne dla Ukrainy
 subtitle: 24-04-2022
 layout: default
 modal-id: 2
-date: 24-04-2022
+date: 21-04-2022
 img: impreza-2.jpg
 thumbnail: impreza-2.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Fundacja Ceramiki Polskiej XX wieku we współpracy z Kolektywem STUS organizują cykl wydarzeń „Po Sztukę do »Cepelii«. Wsparcie Wielkanocne dla Ukrainy”🇺🇦, w ramach którego odbywać się będą wystawy oraz aukcje charytatywne.  
- 
-〰️ Podczas licytacji zakupić będzie można dzieła sztuki i zabytkowe meble z budynku dawnej „Cepelii”, a dochód przeznaczony zostanie na zakup staz taktycznych dla ukraińskiej armii.  
+description: Fundacja Ceramiki Polskiej XX wieku we współpracy z Kolektywem STUS organizują cykl wydarzeń „Po Sztukę do »Cepelii«. Wsparcie Wielkanocne dla Ukrainy”🇺🇦, w ramach którego odbywać się będą wystawy oraz aukcje charytatywne. 〰️ Podczas licytacji zakupić będzie można dzieła sztuki i zabytkowe meble z budynku dawnej „Cepelii”, a dochód przeznaczony zostanie na zakup staz taktycznych dla ukraińskiej armii.
+project-date: 24-04-2022
+time: 15:00
+location: ulica Chmielna 8, 00-020 Warszawa, Polska
+location_link: https://goo.gl/maps/LJ1R72BrSq8BYXut8
 
 ---
